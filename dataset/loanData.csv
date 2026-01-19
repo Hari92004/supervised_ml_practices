@@ -1,0 +1,21 @@
+Employee ID,Salary (Monthly),Experience (Years),Job Role,Work Hours (Weekly),Satisfaction Level (0-1),Attrition (Target)
+EMP001,45000,2,Sales Exec,45,0.3,Yes
+EMP002,85000,7,Manager,40,0.8,No
+EMP003,30000,1,Intern,50,0.4,Yes
+EMP004,60000,4,Developer,42,0.7,No
+EMP005,55000,3,HR,48,0.2,Yes
+EMP006,95000,10,Director,38,0.9,No
+EMP007,42000,2,Analyst,55,0.1,Yes
+EMP008,72000,5,Developer,40,0.6,No
+EMP009,35000,1,Sales Exec,44,0.5,No
+EMP010,12,00,12,Manager,45,0.7,No
+EMP011,48000,3,Analyst,52,0.3,Yes
+EMP012,65000,6,Developer,39,0.8,No
+EMP013,28000,1,Intern,40,0.6,No
+EMP014,58000,4,HR,46,0.4,Yes
+EMP015,90000,8,Sales Lead,41,0.7,No
+EMP016,40000,2,Analyst,60,0.2,Yes
+EMP017,75000,5,Developer,40,0.9,No
+EMP018,32000,1,Sales Exec,50,0.2,Yes
+EMP019,11,00,11,Manager,42,0.8,No
+EMP020,52000,3,Developer,44,0.5,No
